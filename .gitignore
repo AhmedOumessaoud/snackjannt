@@ -1,0 +1,17 @@
+# Local screenshots and source-preparation helpers
+/*-check.png
+/*-complete.png
+/juices-preview.png
+/redesign.py
+/complete-menu.py
+/juice-gallery-update.py
+/verify.cjs
+/assets/audit-*.png
+
+# Local machine files and secrets
+.DS_Store
+Thumbs.db
+node_modules/
+.env
+.env.*
+!.env.example
