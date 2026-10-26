@@ -1,0 +1,9 @@
+/* Give the food photography enough room to be appreciated. */
+.section-content{padding-bottom:225px}
+.section-scene{height:220px;width:100%;right:0;object-position:center bottom;mask-image:none;border-radius:14px}
+.category img{object-fit:contain;height:82px;width:100%;border-radius:12px}
+.section-title h3 img{object-fit:cover}
+#juice .section-content{padding-bottom:0}
+@media(min-width:1000px){.section-content{padding-bottom:260px}.section-scene{height:255px;width:100%}.category img{height:88px}.product-photo{width:44px;height:44px}.product-body{min-height:49px}}
+@media(max-width:700px){.category img{height:55px}.section-content{padding-bottom:205px}.section-scene{height:200px}.category{padding-top:8px}}
+@media(max-width:380px){.category img{height:47px}.section-content{padding-bottom:185px}.section-scene{height:180px}}
